@@ -1,4 +1,4 @@
-# Loads RDS
+# Loads required libraries
 require(ggplot2)
 
 # Loads RDS
